@@ -1,4 +1,4 @@
-shoo this is a wip shh
+<img alt="divider ^_^" src="https://github.com/user-attachments/assets/047814ac-2820-4a66-9713-f78874b3506b" />
 
 <!--
 **cannibalisticchef/cannibalisticchef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
