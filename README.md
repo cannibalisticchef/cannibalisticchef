@@ -7,6 +7,6 @@
 <img alt="divider >_<" src="https://i.postimg.cc/J0Mp7td6/Untitled580-20260408190654.jpg" >
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vncjyh63bhd26a3acwh2jrrawu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=fd1c85&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vncjyh63bhd26a3acwh2jrrawu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=ffffff&bar_color_cover=false">
   </a>
 </p>
