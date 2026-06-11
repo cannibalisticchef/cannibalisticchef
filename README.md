@@ -1,10 +1,12 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cannibalisticchef&color=000000&label=fireballs" alt="costumers"/>
 </p>
-<img alt="divider >_<" src="https://i.postimg.cc/FRjPQ0Gb/Untitled580-20260408190551.jpg" >
-<p align= center> <img alt="my bae teruteru hanamura ^_^" length=800 width=800 src="https://i.postimg.cc/5tLfCknf/Untitled574-20260407032646.png" >
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Doto&pause=1000&color=F44295&center=true&vCenter=true&width=435&lines=%22+...I'm+sorry...+%22;%22+I+couldn't+be+your...+%22;%22+...ray+of+hope.+%22" alt="Typing SVG" /></a>
-<img alt="divider >_<" src="https://i.postimg.cc/J0Mp7td6/Untitled580-20260408190654.jpg" >
+<img width="2048" height="587" alt="divider >_<" src="https://github.com/user-attachments/assets/a81e1e9a-fe4a-4ff3-a443-9f943cbb64d9" />
+<img width="2048" height="429" alt="divider >_<" src="https://github.com/user-attachments/assets/8f99bc83-db4a-404e-9a2f-e827d1bbb5bc" />
+<p align= center> <img width="600" height="477" alt="avdrool" src="https://github.com/user-attachments/assets/3fdc30b5-1ab3-4474-b131-5b5cd6f97e19" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=500&letterSpacing=small&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%22+Yes%2C+I+AM!+%22" alt="Typing SVG" /></a>
+<img width="2048" height="462" alt="divider >_<" src="https://github.com/user-attachments/assets/979d1b3b-52a4-425e-b471-0d826abe8a29" />
+<img width="2048" height="623" alt="divider >_<" src="https://github.com/user-attachments/assets/6102f92e-9ce7-4dae-a5aa-33f1681d6220" />
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vncjyh63bhd26a3acwh2jrrawu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=ffffff&bar_color_cover=false">
