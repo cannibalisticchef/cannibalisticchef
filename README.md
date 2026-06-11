@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cannibalisticchef&color=F44295&label=costumers" alt="costumers"/>
+  <img src="https://komarev.com/ghpvc/?username=cannibalisticchef&color=000000&label=fireballs" alt="costumers"/>
 </p>
 <img alt="divider >_<" src="https://i.postimg.cc/FRjPQ0Gb/Untitled580-20260408190551.jpg" >
 <p align= center> <img alt="my bae teruteru hanamura ^_^" length=800 width=800 src="https://i.postimg.cc/5tLfCknf/Untitled574-20260407032646.png" >
