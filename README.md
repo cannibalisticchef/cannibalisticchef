@@ -12,3 +12,5 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vncjyh63bhd26a3acwh2jrrawu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=ffffff&bar_color_cover=false">
   </a>
 </p>
+
+redesigning later bro mariah
