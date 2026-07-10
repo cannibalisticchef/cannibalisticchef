@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cannibalisticchef&color=000000&label=fireballs" alt="costumers"/>
+  <img src="https://komarev.com/ghpvc/?username=cannibalisticchef&color=460837&label=magnets" alt="magnets"/>
 </p>
 <img width="2048" height="587" alt="divider >_<" src="https://github.com/user-attachments/assets/a81e1e9a-fe4a-4ff3-a443-9f943cbb64d9" />
 <img width="2048" height="429" alt="divider >_<" src="https://github.com/user-attachments/assets/8f99bc83-db4a-404e-9a2f-e827d1bbb5bc" />
@@ -12,5 +12,3 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vncjyh63bhd26a3acwh2jrrawu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=ffffff&bar_color_cover=false">
   </a>
 </p>
-
-redesigning later bro mariah
