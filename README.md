@@ -7,6 +7,7 @@
   <p align="center">
     mwaa!! tysm <a href="https://github.com/title-town" title="title-town!!" />
     </a>
+  </p>
 <img alt="divider >_<" src="https://i.postimg.cc/Nj2LVf1M/Untitled688-20260710202754.png" />
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
