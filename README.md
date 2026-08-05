@@ -2,8 +2,10 @@
   <img src="https://komarev.com/ghpvc/?username=cannibalisticchef&color=3A0A31&label=magnets" alt="magnets"/>
 </p>
 <img alt="divider >_<" src="https://i.postimg.cc/8P57Rbcy/Untitled688-20260710202746.png" />
-<p align= center> <img alt="avdrool" src="https://i.postimg.cc/8C1dV6tV/Untitled690-20260710223314.png" />
+<p align= center> <img alt="mari" src="https://i.postimg.cc/8C1dV6tV/Untitled690-20260710223314.png" />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Doto&weight=500&duration=5003&pause=50&color=741B4B&center=true&vCenter=true&width=435&lines=%22+You're+good-looking.+.+.%22;%22+But+you're+nowhere+handsome+as.+.%22;%22+LORD+DIO!+%22" alt="Typing SVG" /></a>
+  <p align="center">
+    mwaa!! tysm @titletown!!
 <img alt="divider >_<" src="https://i.postimg.cc/Nj2LVf1M/Untitled688-20260710202754.png" />
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
