@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cannibalisticchef&color=3A0A31&label=magnets" alt="magnets"/>
+  <img src="https://komarev.com/ghpvc/?username=cannibalisticchef&color=3A0A31&label=magnets~~" alt="magnets~~"/>
 </p>
 <img alt="divider >_<" src="https://i.postimg.cc/8P57Rbcy/Untitled688-20260710202746.png" />
 <p align= center> <img alt="mari" src="https://i.postimg.cc/8C1dV6tV/Untitled690-20260710223314.png" />
